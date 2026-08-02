@@ -3,6 +3,7 @@ A non-invasive, real-time vein visualization system using Near-Infrared (NIR) im
 
 
 Features
+                                              
 100% Standalone Edge Execution: The entire camera capture, image processing, and web streaming pipeline run on a single Raspberry Pi 5 node.
 Real-time Local Processing: Captures video frames using a background thread and processes them with minimal latency using optimized local computer vision techniques.
 CLAHE Enhancement: Employs Contrast Limited Adaptive Histogram Equalization (CLAHE) to boost regional image contrast, making hidden vein structures clearly visible against surrounding skin.
